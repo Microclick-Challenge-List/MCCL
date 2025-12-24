@@ -24,6 +24,13 @@
             "link": "https://www.youtube.com/watch?v=um-P2zyVkAI",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "Angopr",
+            "link": "https://youtu.be/KrP_sn9w1aM",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
