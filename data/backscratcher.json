@@ -25,6 +25,12 @@
             "hz": "60",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "Aviirix",
+            "link": "https://www.youtube.com/watch?v=v7GWGEHEloM",
+            "hz": "165",
+            "percent": 100
         }
     ]
 }
