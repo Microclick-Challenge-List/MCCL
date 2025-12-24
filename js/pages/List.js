@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        - Achieved the record without using hacks (anything up to 360 FPS is allowed, any usage of CBF is banned)
+                        - Achieved the record without using hacks (anything up to 360 FPS is allowed including Physics Bypass, any usage of CBF is banned)
                     </p>
                     <p>
                         - Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
