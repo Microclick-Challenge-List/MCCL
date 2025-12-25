@@ -50,6 +50,12 @@
             "hz": "60",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "Sadisyourlife",
+            "link": "https://youtu.be/bE1QPTnIXZg",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
