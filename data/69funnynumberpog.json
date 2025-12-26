@@ -49,6 +49,13 @@
             "link": "https://youtu.be/bE1QPTnIXZg",
             "hz": "240",
             "percent": 100
+        },
+        {
+            "user": "dan",
+            "link": "https://discord.com/channels/781250898142691329/829815756396429312/1453743584363806871",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
