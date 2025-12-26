@@ -56,6 +56,12 @@
             "hz": "60",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "ClawBuckle",
+            "link": "https://youtu.be/Eh6-UOvzTNQ",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
