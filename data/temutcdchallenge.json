@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "180 (PB)",
     "records": [
+        {
+            "user": "Trademodius",
+            "link": "https://youtu.be/ZGMdG0c-xR0?si=V9tOoYxZBdKtRY6o",
+            "hz": "180",
+            "percent": 100
+        }
     ]
 }
