@@ -1,0 +1,12 @@
+{
+    "id": 130281600,
+    "name": "microclick benchmark",
+    "author": "TomatoKatsup",
+    "creators": ["TomatoKatsup"],
+    "verifier": "tomato",
+    "verification": "https://youtu.be/8znzAHClIoI",
+    "percentToQualify": "100",
+    "fps": "240/360",
+    "records": [
+    ]
+}
