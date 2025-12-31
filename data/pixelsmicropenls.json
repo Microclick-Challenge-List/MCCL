@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "60",
     "records": [
+        {
+            "user": "IPanic",
+            "link": "https://youtu.be/Hg5sDUwwyBE",
+            "hz": "60",
+            "percent": 100
+        }
     ]
 }
