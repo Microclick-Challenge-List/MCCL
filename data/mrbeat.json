@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/XlB3yBz4qOs",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Savarinaw",
+            "link": "https://www.youtube.com/watch?v=N_-ohZT3cxA",
+            "hz": "360",
+            "percent": 100
+        }
     ]
 }
