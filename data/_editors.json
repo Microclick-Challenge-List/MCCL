@@ -5,13 +5,18 @@
         "link": "https://www.youtube.com/@pixelfactorial"
     },
     {
+        "role": "owner",
+        "name": "ClawBuckle",
+        "link": "https://www.youtube.com/@EFG1tMSZ0Z"
+    },
+    {
         "role": "helper",
         "name": "Savarinaw",
         "link": "https://www.youtube.com/@Sav_GD"
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "Prometheus",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
