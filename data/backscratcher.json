@@ -118,8 +118,14 @@
             "percent": 100
         },
         {
-            "user": "nojnis",
+            "user": "tomato",
             "link": "https://youtu.be/hanoViOpAoo",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "nojnis",
+            "link": "https://www.youtube.com/watch?v=O3G2_0nnNS4",
             "hz": "240",
             "percent": 100
         },
