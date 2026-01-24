@@ -13,11 +13,17 @@
             "hz": "360",
             "percent": 100
         },
-                {
+        {
             "user": "tomato",
             "link": "https://www.youtube.com/watch?v=O3G2_0nnNS4",
             "hz": "240",
             "percent": 100
-        }
+        },
+        {
+            "user": "chrissyxh",
+            "link": "https://youtu.be/Dqt4VU2J1FM",
+            "hz": "360",
+            "percent": 100
+        },
     ]
 }
