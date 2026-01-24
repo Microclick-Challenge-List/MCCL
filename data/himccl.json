@@ -90,7 +90,7 @@
             "link": "https://youtu.be/sMsivo3Ir9k",
             "hz": "60",
             "percent": 100,
-            "mobile": true
+            "mobile": "true"
         }
     ]
 }
