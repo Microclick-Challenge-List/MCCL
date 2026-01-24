@@ -113,6 +113,12 @@
             "mobile": "true"
         },
         {
+            "user": "tomato",
+            "link": "https://www.youtube.com/watch?v=O3G2_0nnNS4",
+            "hz": "240",
+            "percent": 100
+        },
+        {
             "user": "Pulsar",
             "link": "https://drive.google.com/file/d/1GNQwojus5a6U0YxKDNX55ey3wFEAUr92/view?usp=sharing",
             "hz": "144",
