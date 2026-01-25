@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "records": [
         {
+            "user": "tomato",
+            "link": "https://www.youtube.com/watch?v=O3G2_0nnNS4",
+            "hz": "240",
+            "percent": 100
+        },
+        {
             "user": "PurpleSpace",
             "link": "https://youtu.be/FIxzMgv6zsg",
             "hz": "240",
