@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "120",
     "records": [
+        {
+            "user": "lancestorm",
+            "link": "https://youtu.be/SqsqnQaInhc",
+            "hz": "120",
+            "percent": 100
+        }
     ]
 }
