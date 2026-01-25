@@ -90,6 +90,13 @@
             "link": "https://youtu.be/iSRigJcYtmc",
             "hz": "60",
             "percent": 100
+        },
+        {
+            "user": "Angopr",
+            "link": "https://youtu.be/p-KRu1iPUrM",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
         }
     ]
 }
