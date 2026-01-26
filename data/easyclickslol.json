@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "60",
     "records": [
+        {
+            "user": "PurpleSpace",
+            "link": "https://youtu.be/OzGb1K3wYsA",
+            "hz": "120",
+            "percent": 100
+        }
     ]
 }
