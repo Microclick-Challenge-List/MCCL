@@ -136,6 +136,7 @@ export default {
     data: () => ({
         list: [],
         editors: [],
+        ogeditors: [],
         loading: true,
         selected: 0,
         errors: [],
