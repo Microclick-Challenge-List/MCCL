@@ -100,7 +100,7 @@ export default {
                     <template v-if="ogeditors">
                         <h3>OG List Editors</h3>
                         <ol class="ogeditors">
-                            <li v-for="editor in editors">
+                            <li v-for="editor in ogeditors">
                                 <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
                                 <a v-if="editor.link" class="type-label-lg link" target="_blank" :href="editor.link">{{ editor.name }}</a>
                                 <p v-else>{{ editor.name }}</p>
