@@ -14,6 +14,12 @@
             "hz": "60",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "PurpleSpace",
+            "link": "https://youtu.be/cWeBMbrv90s",
+            "hz": "120",
+            "percent": 100
         }
     ]
 }
