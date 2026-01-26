@@ -3,11 +3,18 @@
     "name": "stereo peeness",
     "author": "pixelfactorial",
     "creators": ["zHowie"],
-    "verifier": "ClawBuckle",
-    "verification": "https://youtu.be/XPcMzp3FY0E",
+    "verifier": "zHowie",
+    "verification": "https://youtu.be/825--0cCfz8",
     "percentToQualify": "100",
     "fps": "Any",
     "records": [
+        {
+            "user": "ClawBuckle",
+            "link": "https://youtu.be/XPcMzp3FY0E",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
+        },
         {
             "user": "Angopr",
             "link": "https://youtu.be/o4HItYetHLQ",
