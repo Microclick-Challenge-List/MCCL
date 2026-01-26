@@ -49,7 +49,7 @@ export async function fetchEditors() {
 export async function fetchOGEditors() {
     try {
         const ogeditorsResults = await fetch(`${dir}/_ogeditors.json`);
-        const ogeditors = await editorsResults.json();
+        const ogeditors = await ogeditorsResults.json();
         return ogeditors;
     } catch {
         return null;
