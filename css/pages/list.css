@@ -126,3 +126,20 @@
 .page-list .meta .editors li a:hover {
     text-decoration: underline;
 }
+.page-list .meta .ogeditors {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+.page-list .meta .ogeditors li {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+.page-list .meta .ogeditors li img {
+    height: 1.25rem;
+}
+.page-list .meta .ogeditors li a:hover {
+    text-decoration: underline;
+}
+
