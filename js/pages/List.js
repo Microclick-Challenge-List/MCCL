@@ -163,6 +163,7 @@ export default {
         // Hide loading spinner
         this.list = await fetchList();
         this.editors = await fetchEditors();
+        this.ogeditors = await fetchOGEditors();
 
         // Error handling
         if (!this.list) {
@@ -179,6 +180,10 @@ export default {
             );
             if (!this.editors) {
                 this.errors.push("Failed to load list editors.")
+            }
+            );
+            if (!this.ogeditors) {
+                this.errors.push("Failed to load OG list editors.")
             }
         }
 
