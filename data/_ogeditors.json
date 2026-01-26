@@ -1,0 +1,37 @@
+[
+    {
+        "role": "owner",
+        "name": "pixel",
+        "link": "https://www.youtube.com/@pixelfactorial"
+    },
+    {
+        "role": "owner",
+        "name": "ClawBuckle",
+        "link": "https://www.youtube.com/@EFG1tMSZ0Z"
+    },
+    {
+        "role": "helper",
+        "name": "Savarinaw",
+        "link": "https://www.youtube.com/@Sav_GD"
+    },
+    {
+        "role": "trial",
+        "name": "opakue",
+        "link": "https://www.youtube.com/channel/UCEqBt10ku64Imn-Vp_wld5Q"
+    },
+    {
+        "role": "trial",
+        "name": "Abendregen",
+        "link": "https://www.youtube.com/channel/UCb3G2neNpW2PY5HSRjFiw7A"
+    },
+    {
+        "role": "trial",
+        "name": "bluej167",
+        "link": "https://www.youtube.com/@sol-xsl"
+    },
+    {
+        "role": "dev",
+        "name": "Prometheus",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    }
+]
