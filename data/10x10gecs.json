@@ -3,11 +3,18 @@
     "name": "10x10 gecs",
     "author": "ozryn",
     "creators": ["ozryn"],
-    "verifier": "ClawBuckle",
-    "verification": "https://youtu.be/DZ5nz2BOlg8",
+    "verifier": "opakue",
+    "verification": "https://youtu.be/CLVQDghqGHU",
     "percentToQualify": "100",
     "fps": "Any",
     "records": [
+        {
+            "user": "ClawBuckle",
+            "link": "https://youtu.be/DZ5nz2BOlg8,
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
+        }
         {
             "user": "Angopr",
             "link": "https://youtu.be/o4HItYetHLQ",
