@@ -180,10 +180,6 @@ export default {
             if (!this.editors) {
                 this.errors.push("Failed to load list editors.")
             }
-            );
-            if (!this.ogeditors) {
-                this.errors.push("Failed to load OG list editors.");
-            }
         }
 
         this.loading = false;
