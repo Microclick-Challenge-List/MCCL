@@ -111,6 +111,24 @@ export default {
                     <p>
                         This is the Micro Click Challenge List (MCCL) for the game Geometry Dash. This list ranks the top 100 hardest micro-click challenges in the game, focusing on levels that demand extremely precise, short-duration inputs and near-perfect timing.
                     </p>
+                    <p>
+                        In Geometry Dash, a micro-click does not refer to click strength or pressure. Instead, it describes a very brief tap that is released within a tight frame window. Because the game’s input system is binary—pressed or released—these challenges test a player’s click control, consistency, and timing accuracy, often down to a single frame.
+                    </p>
+                    <p>
+                        Micro-click challenges are especially demanding due to the game’s frame-based physics, where holding or releasing input for even one extra frame can dramatically change gameplay. This makes micro-clicks critical in game modes such as cube, ship, UFO, and wave, where slight differences in input duration can determine success or failure.
+                    </p>
+                    <p>
+                        The challenges on this list are designed to push the limits of human precision, requiring players to master short taps, rapid input control, and intense focus. Difficulty is based on factors such as input tightness, consistency requirements, gameplay speed, and overall execution difficulty.
+                    </p>
+                    <p>
+                        This list exists to document, rank, and celebrate some of the most mechanically demanding micro-click challenges ever created in Geometry Dash.
+                    </p>
+                    <p>
+                        Additionally, this is version two of the list, introduced alongside updated rules and standards to better reflect modern micro-click challenges.
+                    </p>
+                    <p>
+                        Special credits goes to pixelfactorial for reviving it. :)
+                    </p>
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
