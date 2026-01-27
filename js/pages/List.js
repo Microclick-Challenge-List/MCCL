@@ -107,6 +107,11 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h3>Info</h3>
+                    <p>
+                        This is the Micro Click Challenge List (MCCL) for the game Geometry Dash. This list ranks the top 100 hardest micro-click challenges in the game, focusing on levels that demand extremely precise, short-duration inputs and near-perfect timing.
+                    </p>
+                    </template>
                     <h3>Submission Requirements</h3>
                     <p>
                         - Achieved the record without using hacks (anything up to 360 FPS is allowed including Physics Bypass, any usage of CBF is banned)
