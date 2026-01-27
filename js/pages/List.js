@@ -158,10 +158,10 @@ export default {
                     </template>
                     <h3>Links</h3>
                     <p>
-                        First Version of MCCL (Discontinued Google Site):
+                        First Version of MCCL (Discontinued Google Site): https://sites.google.com/view/microclickchallengelist
                     </p>
                     <p>
-                        Old & Abandoned Mirco Click Challenge List Site:
+                        Old & Abandoned Mirco Click Challenge List Site: https://sites.google.com/view/microclickchallenges
                     </p>
                     <p>
                         The MCCL Hardware Outrage: (soon!)
