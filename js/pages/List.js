@@ -115,7 +115,7 @@ export default {
                         In Geometry Dash, a micro-click does not refer to click strength or pressure. Instead, it describes a very brief tap that is released within a tight frame window. Because the game’s input system is binary—pressed or released—these challenges test a player’s click control, consistency, and timing accuracy, often down to a single frame.
                     </p>
                     <p>
-                        Micro-click challenges are especially demanding due to the game’s frame-based physics, where holding or releasing input for even one extra frame can dramatically change gameplay. This makes micro-clicks critical in game modes such as cube, ship, UFO, and wave, where slight differences in input duration can determine success or failure.
+                        Micro-click challenges are especially demanding due to the game’s frame-based physics, where holding or releasing input for even one extra frame can dramatically change gameplay. This makes micro-clicks critical in game modes such as wave, robot, and ship, where slight differences in input duration can determine success or failure.
                     </p>
                     <p>
                         The challenges on this list are designed to push the limits of human precision, requiring players to master short taps, rapid input control, and intense focus. Difficulty is based on factors such as input tightness, consistency requirements, gameplay speed, and overall execution difficulty.
