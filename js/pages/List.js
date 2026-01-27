@@ -132,6 +132,9 @@ export default {
                     <p>
                         MCCL is a fan-made project and is not affiliated with, endorsed by, or associated with RobTopGames AB® in any way, similar to other community-run lists.
                     </p>
+                    <p>
+                        List icon PFP by opakue.
+                    </p>
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
