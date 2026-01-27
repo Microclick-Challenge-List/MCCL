@@ -109,7 +109,7 @@ export default {
                     </template>
                     <h3>Information</h3>
                     <p>
-                        This is the Micro Click Challenge List (MCCL) for the game Geometry Dash. This list ranks the top 100 hardest micro-click challenges in the game, focusing on levels that demand extremely precise, short-duration inputs and near-perfect timing.
+                        This is the Microclick Challenge List (MCCL) for the game Geometry Dash. This list ranks the top 100 hardest micro-click challenges in the game, focusing on levels that demand extremely precise, short-duration inputs and near-perfect timing.
                     </p>
                     <p>
                         In Geometry Dash, a micro-click does not refer to click strength or pressure. Instead, it describes a very brief tap that is released within a tight frame window. Because the game’s input system is binary—pressed or released—these challenges test a player’s click control, consistency, and timing accuracy, often down to a single frame.
@@ -127,7 +127,7 @@ export default {
                         Additionally, this is version two of the list, introduced alongside updated rules and standards to better reflect modern micro-click challenges.
                     </p>
                     <p>
-                        Special credit goes to pixelfactorial for reviving the Micro Click Challenge List after it had been inactive for approximately four years. After a long period without updates, the list had effectively been discontinued. As an original moderator, pixelfactorial played a major role in bringing it back, rebuilding its structure, and renewing interest in micro-click challenges within the Geometry Dash community. Their work helped preserve the list’s history while allowing it to continue evolving with modern challenges and updated standards.
+                        Special credit goes to pixelfactorial for reviving the Microclick Challenge List after it had been inactive for approximately four years. After a long period without updates, the list had effectively been discontinued. As an original moderator, pixelfactorial played a major role in bringing it back, rebuilding its structure, and renewing interest in micro-click challenges within the Geometry Dash community. Their work helped preserve the list’s history while allowing it to continue evolving with modern challenges and updated standards.
                     </p>
                     <p>
                         MCCL is a fan-made project and is not affiliated with, endorsed by, or associated with RobTopGames AB® in any way, similar to other community-run lists.
@@ -161,7 +161,7 @@ export default {
                         First Version of MCCL (Discontinued Google Site): https://sites.google.com/view/microclickchallengelist
                     </p>
                     <p>
-                        Old & Abandoned Mirco Click Challenge List Site: https://sites.google.com/view/microclickchallenges
+                        Old & Abandoned Microclick Challenge List Site: https://sites.google.com/view/microclickchallenges
                     </p>
                     <p>
                         The MCCL Hardware Outrage: (soon!)
