@@ -155,6 +155,17 @@ export default {
                     <p>
                         - Once a level falls onto the Legacy List, we no longer accept the records for them.
                     </p>
+                    </template>
+                    <h3>Links</h3>
+                    <p>
+                        First Version of MCCL (Discontinued Google Site):
+                    </p>
+                    <p>
+                        Old & Abandoned Mirco Click Challenge List Site:
+                    </p>
+                    <p>
+                        The MCCL Hardware Outrage: (soon!)
+                    </p>
                 </div>
             </div>
         </main>
