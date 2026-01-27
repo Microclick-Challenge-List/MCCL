@@ -127,7 +127,7 @@ export default {
                         Additionally, this is version two of the list, introduced alongside updated rules and standards to better reflect modern micro-click challenges.
                     </p>
                     <p>
-                        Special credits goes to pixelfactorial for reviving it. :)
+                        MCCL is a fan-made project and is not affiliated with, endorsed by, or associated with RobTopGames AB® in any way, similar to other community-run lists.
                     </p>
                     </template>
                     <h3>Submission Requirements</h3>
