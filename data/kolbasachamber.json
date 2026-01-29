@@ -6,7 +6,7 @@
     "verifier": "yaroslap",
     "verification": "https://youtu.be/2eEiOhmjBQ8",
     "percentToQualify": "100",
-    "fps": "Any",
+    "fps": "60",
     "records": [
     ]
 }
