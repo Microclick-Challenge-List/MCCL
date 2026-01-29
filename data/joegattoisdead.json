@@ -55,5 +55,12 @@
             "hz": "240",
             "percent": 100
         }
+        {
+            "user": "Angopr",
+            "link": "https://youtu.be/Z-8Qcmk6neo?si=bHV3h4CHvKVF9-X7",
+            "hz": "60",
+            "percent": 100,
+            "mobile": "true"
+        }
     ]
 }
