@@ -164,10 +164,10 @@ export default {
                     </template>
                     <h3>Links</h3>
                     <p>
-                        First Version of MCCL (Discontinued Google Site): https://sites.google.com/view/microclickchallengelist
+                        First Version of MCCL (Discontinued Google Site): <a style="color: #03bafc" href="https://sites.google.com/view/microclickchallengelist">this tutorial</a>
                     </p>
                     <p>
-                        Old & Abandoned Microclick Challenge List Site: https://sites.google.com/view/microclickchallenges
+                        Old & Abandoned Microclick Challenge List Site: <a style="color: #03bafc" href="https://sites.google.com/view/microclickchallenges">this tutorial</a>
                     </p>
                     <p>
                         The MCCL Hardware Outrage: (soon!)
