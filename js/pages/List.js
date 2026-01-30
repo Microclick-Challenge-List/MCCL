@@ -153,6 +153,9 @@ export default {
                         - The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
+                        - Challenges must have to be up to 29 seconds maxinum (tiny & short length)
+                    </p>
+                    <p>
                         - Any form of hardware abuse is not allowed for swiftclick challenges
                     </p>
                     <p>
