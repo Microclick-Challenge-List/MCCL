@@ -97,6 +97,12 @@
             "hz": "60",
             "percent": 100,
             "mobile": "true"
+        },
+        {
+            "user": "chrissyxh",
+            "link": "https://youtu.be/WfkM0vsFMs0",
+            "hz": "360",
+            "percent": 100
         }
     ]
 }
