@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "Any",
     "records": [
+        {
+            "user": "Codergod",
+            "link": "https://streamable.com/8wtiis",
+            "hz": "360",
+            "percent": 100
+        }
     ]
 }
