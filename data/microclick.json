@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "Any",
     "records": [
+        {
+            "user": "chrissyxh",
+            "link": "https://youtu.be/-P1cgYEIy8s",
+            "hz": "360",
+            "percent": 100
+        }
     ]
 }
