@@ -134,7 +134,7 @@ export default {
                     </p>
                     <p>
                         List icon PFP by opakue.
-                        Repository owned by pixelfactorial.
+                        Repository owned by pixelfactorial (pixel).
                     </p>
                     </template>
                     <h3>Submission Requirements</h3>
