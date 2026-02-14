@@ -163,7 +163,7 @@ export default {
                         - Once a level falls onto the Legacy List, we no longer accept the records for them.
                     </p>
                     </template>
-                    <h3>Site Links</h3>
+                    <h3>Cascading Menu Links</h3>
                     <p>
                         First Version of MCCL (Discontinued Google Site):
                         <a style="color: #03bafc" href="https://sites.google.com/view/microclickchallengelist">Main List</a>
