@@ -109,7 +109,7 @@ export default {
                     </template>
                     <h3>Information</h3>
                     <p>
-                        This is the Microclick Challenge List (MCCL) for the game Geometry Dash. This list ranks the top 100 hardest micro-click challenges in the game, focusing on levels that demand extremely precise, short-duration inputs and near-perfect timing.
+                        This is the Microclick Challenge List (MCCL) for the game <a style="color: #03bafc" href="https://en.wikipedia.org/wiki/Geometry_Dash">Geometry Dash</a>. This list ranks the top 100 hardest micro-click challenges in the game, focusing on levels that demand extremely precise, short-duration inputs and near-perfect timing.
                     </p>
                     <p>
                         In Geometry Dash, a micro-click does not refer to click strength or pressure. Instead, it describes a very brief tap that is released within a tight frame window. Because the game’s input system is binary, meaning pressed or released, these challenges test a player’s click control, consistency and timing accuracy, often down to a single frame.
