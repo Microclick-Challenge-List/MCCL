@@ -139,25 +139,25 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        - Achieved the record without using hacks (anything up to 360 FPS is allowed including Physics Bypass, any usage of CBF is banned)
+                        - Achieved the record without using hacks (anything up to 360 FPS is allowed including Physics Bypass, any usage of CBF is banned).
                     </p>
                     <p>
-                        - Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        - Achieved the record on the level that is listed on the site - please check the level ID before you submit a record.
                     </p>
                     <p>
-                        - Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        - Have either source audio or clicks/taps in the video. Edited audio only does not count.
                     </p>
                     <p>
-                        - The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        - The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this.
                     </p>
                     <p>
                         - The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
-                        - Challenges must have to be up to 29 seconds maximum (either you want tiny or short length for your own level)
+                        - Challenges must have to be up to 29 seconds maximum (either you want tiny or short length for your own level).
                     </p>
                     <p>
-                        - Any form of hardware abuse is not allowed for swiftclick challenges
+                        - Any form of hardware abuse is not allowed for swiftclick challenges.
                     </p>
                     <p>
                         - Once a level falls onto the Legacy List, we no longer accept the records for them.
